@@ -1991,7 +1991,7 @@ if( ! function_exists( 'mfn_opts_setup' ) )
 					'type' => 'text',
 					'title' => __( 'Google Maps API key', 'mfn-opts' ),
 					'desc' => __( '<a target="_blank" href="https://developers.google.com/maps/documentation/javascript/get-api-key">Google Maps API key</a> is required for <i>Map Basic Embed</i> or <i>Map Advanced</i>.', 'mfn-opts'),
-					'placeholder' => 'AIzaZyAYx-LiNW48x71E9dZ32hAp9MKnHnOIFeI',
+					'placeholder' => 'placeholder google api',
 					're_render_if' => 'div|.google-map',
 					'class' => 're_render_to',
 				),
