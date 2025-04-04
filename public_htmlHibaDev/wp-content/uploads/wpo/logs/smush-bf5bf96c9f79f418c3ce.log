@@ -1,0 +1,161 @@
+[2024-10-04 10:07:24 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-10-04 10:07:25 : INFO] - A total of 23 tasks of type smush found and will be processed in this iteration 
+[2024-10-04 10:07:25 : DEBUG] - Lock option (updraft_lock_smush, 04_options) was created in the database 
+[2024-10-04 10:07:25 : INFO] - Lock (updraft_lock_smush, 04_options) acquired after initialising the database 
+[2024-10-04 10:07:25 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-10-04 10:07:25 : INFO] - Re_Smush_It_Task - Attachment ID : 26, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:25 : INFO] - File: webmaster2-work-pic4.jpg, Compression quality: 92 
+[2024-10-04 10:07:28 : INFO] - Backing up the original image - 2021/02/webmaster2-work-pic4-updraft-pre-smush-original.jpg 
+[2024-10-04 10:07:28 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-work-pic4.jpg.The file was compressed from 82.66 KB to 82.62 KB, saving 0.06 percent, using WP-Optimize 
+[2024-10-04 10:07:28 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-10-04 10:07:28 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-10-04 10:07:28 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:28 : INFO] - File: webmaster2-work-pic3.jpg, Compression quality: 92 
+[2024-10-04 10:07:31 : INFO] - Backing up the original image - 2021/02/webmaster2-work-pic3-updraft-pre-smush-original.jpg 
+[2024-10-04 10:07:31 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-work-pic3.jpg.The file was compressed from 68.71 KB to 68.71 KB, saving 0 percent, using WP-Optimize 
+[2024-10-04 10:07:31 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-10-04 10:07:31 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-10-04 10:07:31 : INFO] - Re_Smush_It_Task - Attachment ID : 28, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:31 : INFO] - File: webmaster2-work-pic1.jpg, Compression quality: 92 
+[2024-10-04 10:07:33 : INFO] - Backing up the original image - 2021/02/webmaster2-work-pic1-updraft-pre-smush-original.jpg 
+[2024-10-04 10:07:33 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-work-pic1.jpg.The file was compressed from 68.44 KB to 68.44 KB, saving 0 percent, using WP-Optimize 
+[2024-10-04 10:07:33 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-10-04 10:07:33 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-10-04 10:07:33 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:33 : INFO] - File: webmaster2-work-pic2.jpg, Compression quality: 92 
+[2024-10-04 10:07:36 : INFO] - Backing up the original image - 2021/02/webmaster2-work-pic2-updraft-pre-smush-original.jpg 
+[2024-10-04 10:07:36 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-work-pic2.jpg.The file was compressed from 53.04 KB to 53.04 KB, saving 0 percent, using WP-Optimize 
+[2024-10-04 10:07:36 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-10-04 10:07:36 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-10-04 10:07:36 : INFO] - Re_Smush_It_Task - Attachment ID : 30, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:36 : INFO] - File: webmaster2-section-bg2.png, Compression quality: 92 
+[2024-10-04 10:07:38 : INFO] - Backing up the original image - 2021/02/webmaster2-section-bg2-updraft-pre-smush-original.png 
+[2024-10-04 10:07:38 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-section-bg2.png.The file was compressed from 44.27 KB to 20.14 KB, saving 54.5 percent, using WP-Optimize 
+[2024-10-04 10:07:38 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-10-04 10:07:38 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-10-04 10:07:38 : INFO] - Re_Smush_It_Task - Attachment ID : 31, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:38 : INFO] - File: webmaster2-section-bg1.png, Compression quality: 92 
+[2024-10-04 10:07:39 : INFO] - Backing up the original image - 2021/02/webmaster2-section-bg1-updraft-pre-smush-original.png 
+[2024-10-04 10:07:39 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-section-bg1.png.The file was compressed from 16.59 KB to 6.53 KB, saving 60.62 percent, using WP-Optimize 
+[2024-10-04 10:07:39 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-10-04 10:07:39 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-10-04 10:07:39 : INFO] - Re_Smush_It_Task - Attachment ID : 32, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:39 : INFO] - File: webmaster2-section-bg5.png, Compression quality: 92 
+[2024-10-04 10:07:40 : INFO] - Backing up the original image - 2021/02/webmaster2-section-bg5-updraft-pre-smush-original.png 
+[2024-10-04 10:07:40 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-section-bg5.png.The file was compressed from 9.03 KB to 1.20 KB, saving 86.72 percent, using WP-Optimize 
+[2024-10-04 10:07:40 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-10-04 10:07:40 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-10-04 10:07:40 : INFO] - Re_Smush_It_Task - Attachment ID : 39, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:40 : INFO] - File: webmaster2-footer-logo.png, Compression quality: 92 
+[2024-10-04 10:07:41 : INFO] - Backing up the original image - 2021/02/webmaster2-footer-logo-updraft-pre-smush-original.png 
+[2024-10-04 10:07:41 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-footer-logo.png.The file was compressed from 2.21 KB to 1.29 KB, saving 41.66 percent, using WP-Optimize 
+[2024-10-04 10:07:41 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-10-04 10:07:41 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-10-04 10:07:41 : INFO] - Re_Smush_It_Task - Attachment ID : 45, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:41 : INFO] - File: webmaster2-wrap-bg1.png, Compression quality: 92 
+[2024-10-04 10:07:42 : INFO] - Backing up the original image - 2021/02/webmaster2-wrap-bg1-updraft-pre-smush-original.png 
+[2024-10-04 10:07:42 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-wrap-bg1.png.The file was compressed from 51.39 KB to 18.74 KB, saving 63.53 percent, using WP-Optimize 
+[2024-10-04 10:07:42 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-10-04 10:07:42 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-10-04 10:07:42 : INFO] - Re_Smush_It_Task - Attachment ID : 58, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:42 : INFO] - File: webmaster2-testimonials-icon1.png, Compression quality: 92 
+[2024-10-04 10:07:42 : INFO] - Backing up the original image - 2021/02/webmaster2-testimonials-icon1-updraft-pre-smush-original.png 
+[2024-10-04 10:07:42 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-testimonials-icon1.png.The file was compressed from 753 bytes to 753 bytes, saving 0 percent, using WP-Optimize 
+[2024-10-04 10:07:42 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-10-04 10:07:42 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-10-04 10:07:42 : INFO] - Re_Smush_It_Task - Attachment ID : 69, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:42 : INFO] - File: webmaster2-section-bg4.png, Compression quality: 92 
+[2024-10-04 10:07:43 : INFO] - Backing up the original image - 2021/02/webmaster2-section-bg4-updraft-pre-smush-original.png 
+[2024-10-04 10:07:43 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-section-bg4.png.The file was compressed from 6.90 KB to 1.04 KB, saving 84.99 percent, using WP-Optimize 
+[2024-10-04 10:07:43 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2024-10-04 10:07:43 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-10-04 10:07:43 : INFO] - Re_Smush_It_Task - Attachment ID : 70, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:43 : INFO] - File: webmaster2-contact-sep1.png, Compression quality: 92 
+[2024-10-04 10:07:43 : INFO] - Backing up the original image - 2021/02/webmaster2-contact-sep1-updraft-pre-smush-original.png 
+[2024-10-04 10:07:43 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/webmaster2-contact-sep1.png.The file was compressed from 113 bytes to 113 bytes, saving 0 percent, using WP-Optimize 
+[2024-10-04 10:07:43 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-10-04 10:07:43 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-10-04 10:07:43 : INFO] - Re_Smush_It_Task - Attachment ID : 77, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:43 : INFO] - File: Clip-path-group-9.png, Compression quality: 92 
+[2024-10-04 10:07:46 : INFO] - Backing up the original image - 2024/10/Clip-path-group-9-updraft-pre-smush-original.png 
+[2024-10-04 10:07:56 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2024/10/Clip-path-group-9.png.The file was compressed from 337.42 KB to 103.98 KB, saving 69.19 percent, using WP-Optimize 
+[2024-10-04 10:07:56 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2024-10-04 10:07:56 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-10-04 10:07:56 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:07:56 : INFO] - File: 2.png, Compression quality: 92 
+[2024-10-04 10:08:00 : INFO] - Backing up the original image - 2021/02/2-updraft-pre-smush-original.png 
+[2024-10-04 10:08:20 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/2.png.The file was compressed from 971.98 KB to 256.58 KB, saving 73.6 percent, using WP-Optimize 
+[2024-10-04 10:08:20 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2024-10-04 10:08:20 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2024-10-04 10:08:20 : INFO] - Re_Smush_It_Task - Attachment ID : 87, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:08:20 : INFO] - File: 3.png, Compression quality: 92 
+[2024-10-04 10:08:24 : INFO] - Backing up the original image - 2021/02/3-updraft-pre-smush-original.png 
+[2024-10-04 10:08:25 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2024-10-04 10:08:25 : DEBUG] - Lock option (updraft_lock_smush, 04_options) already existed in the database 
+[2024-10-04 10:08:25 : INFO] - Lock (updraft_lock_smush, 04_options) could not be acquired (it is locked) 
+[2024-10-04 10:08:25 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-10-04 10:08:25 : INFO] - Cleaning up tasks of type (smush). A total of 14 tasks will be deleted. 
+[2024-10-04 10:08:43 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/3.png.The file was compressed from 949.05 KB to 260.66 KB, saving 72.53 percent, using WP-Optimize 
+[2024-10-04 10:08:43 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2024-10-04 10:08:43 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2024-10-04 10:08:43 : INFO] - Re_Smush_It_Task - Attachment ID : 88, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:08:43 : INFO] - File: 4.png, Compression quality: 92 
+[2024-10-04 10:08:47 : INFO] - Backing up the original image - 2021/02/4-updraft-pre-smush-original.png 
+[2024-10-04 10:09:03 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/4.png.The file was compressed from 719.64 KB to 167.38 KB, saving 76.74 percent, using WP-Optimize 
+[2024-10-04 10:09:03 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2024-10-04 10:09:03 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2024-10-04 10:09:03 : INFO] - Re_Smush_It_Task - Attachment ID : 89, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:09:03 : INFO] - File: 5.png, Compression quality: 92 
+[2024-10-04 10:09:06 : INFO] - Backing up the original image - 2021/02/5-updraft-pre-smush-original.png 
+[2024-10-04 10:09:23 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/5.png.The file was compressed from 662.55 KB to 185.48 KB, saving 72.01 percent, using WP-Optimize 
+[2024-10-04 10:09:23 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2024-10-04 10:09:23 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2024-10-04 10:09:23 : INFO] - Re_Smush_It_Task - Attachment ID : 90, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:09:23 : INFO] - File: 6.png, Compression quality: 92 
+[2024-10-04 10:09:25 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2024-10-04 10:09:25 : DEBUG] - Lock option (updraft_lock_smush, 04_options) already existed in the database 
+[2024-10-04 10:09:25 : INFO] - Lock (updraft_lock_smush, 04_options) could not be acquired (it is locked) 
+[2024-10-04 10:09:25 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-10-04 10:09:25 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2024-10-04 10:09:27 : INFO] - Backing up the original image - 2021/02/6-updraft-pre-smush-original.png 
+[2024-10-04 10:09:44 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/6.png.The file was compressed from 728.24 KB to 193.00 KB, saving 73.5 percent, using WP-Optimize 
+[2024-10-04 10:09:44 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2024-10-04 10:09:44 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2024-10-04 10:09:44 : INFO] - Re_Smush_It_Task - Attachment ID : 91, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:09:44 : INFO] - File: 7.png, Compression quality: 92 
+[2024-10-04 10:09:47 : INFO] - Backing up the original image - 2021/02/7-updraft-pre-smush-original.png 
+[2024-10-04 10:10:04 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/7.png.The file was compressed from 633.85 KB to 171.21 KB, saving 72.99 percent, using WP-Optimize 
+[2024-10-04 10:10:04 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2024-10-04 10:10:04 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2024-10-04 10:10:04 : INFO] - Re_Smush_It_Task - Attachment ID : 92, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:10:04 : INFO] - File: 8.png, Compression quality: 92 
+[2024-10-04 10:10:07 : INFO] - Backing up the original image - 2021/02/8-updraft-pre-smush-original.png 
+[2024-10-04 10:10:25 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2024-10-04 10:10:25 : DEBUG] - Lock option (updraft_lock_smush, 04_options) already existed in the database 
+[2024-10-04 10:10:25 : INFO] - Lock (updraft_lock_smush, 04_options) could not be acquired (it is locked) 
+[2024-10-04 10:10:25 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-10-04 10:10:25 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-10-04 10:10:25 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/8.png.The file was compressed from 744.33 KB to 200.64 KB, saving 73.04 percent, using WP-Optimize 
+[2024-10-04 10:10:25 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2024-10-04 10:10:25 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2024-10-04 10:10:25 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:10:25 : INFO] - File: 9.png, Compression quality: 92 
+[2024-10-04 10:10:28 : INFO] - Backing up the original image - 2021/02/9-updraft-pre-smush-original.png 
+[2024-10-04 10:10:45 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2021/02/9.png.The file was compressed from 700.33 KB to 203.11 KB, saving 71 percent, using WP-Optimize 
+[2024-10-04 10:10:45 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2024-10-04 10:10:45 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2024-10-04 10:10:45 : INFO] - Re_Smush_It_Task - Attachment ID : 95, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:10:45 : INFO] - File: H-DEV.png, Compression quality: 92 
+[2024-10-04 10:10:46 : INFO] - Backing up the original image - 2024/10/H-DEV-updraft-pre-smush-original.png 
+[2024-10-04 10:10:47 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2024/10/H-DEV.png.The file was compressed from 14.14 KB to 6.62 KB, saving 53.18 percent, using WP-Optimize 
+[2024-10-04 10:10:47 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2024-10-04 10:10:47 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2024-10-04 10:10:47 : INFO] - Re_Smush_It_Task - Attachment ID : 96, Started on : October 04, 2024 10:07:25 
+[2024-10-04 10:10:47 : INFO] - File: cropped-H-DEV.png, Compression quality: 92 
+[2024-10-04 10:10:48 : INFO] - Backing up the original image - 2024/10/cropped-H-DEV-updraft-pre-smush-original.png 
+[2024-10-04 10:10:52 : INFO] - Successfully optimized the image - /home/sites/38a/9/98cbafd97a/public_html/public_htmlHibaDev/wp-content/uploads/2024/10/cropped-H-DEV.png.The file was compressed from 17.68 KB to 7.64 KB, saving 56.82 percent, using WP-Optimize 
+[2024-10-04 10:10:52 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2024-10-04 10:10:52 : INFO] - Lock option (updraft_lock_smush, 04_options) released 
+[2024-10-04 10:10:52 : INFO] - Successfully processed the queue (smush). 23 tasks were processed out of 23. 
+[2024-10-04 10:10:52 : INFO] - Lock option (updraft_lock_smush, 04_options) was deleted from the database 
+[2024-10-04 10:10:52 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
