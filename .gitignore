@@ -1,0 +1,19 @@
+# WordPress specific files
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup-db/
+wp-content/backups/
+
+# Server files
+.htaccess
+error_log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+node_modules/

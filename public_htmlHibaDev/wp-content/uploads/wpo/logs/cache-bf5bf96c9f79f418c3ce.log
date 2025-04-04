@@ -1,0 +1,20 @@
+[2025-03-28 08:44:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-03-28 08:44:39 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-03-28 08:46:05 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-03-28 09:32:42 : INFO] - Full Cache Purge triggered by: WP_Optimize_Cache_Commands::purge_page_cache 
+[2025-03-28 09:36:20 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-03-28 09:38:26 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-03-28 09:38:56 : INFO] - Cache for URL: https://hiba.dev/?p=104 has been purged, triggered by action: save_post 
+[2025-03-28 09:38:56 : INFO] - Cache for previous post (with URL: https://hiba.dev/2021/02/04/hello-world/) adjacent to post with id: 104 has been purged, triggered by action: save_post 
+[2025-03-28 09:38:56 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-03-28 09:46:39 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-03-30 13:00:19 : INFO] - Pruning the Cache log file 
+[2025-04-03 19:27:38 : INFO] - Cache for URL: https://hiba.dev/privacy-policy/ has been purged, triggered by action: save_post 
+[2025-04-03 19:27:43 : INFO] - Cache for URL: https://hiba.dev/privacy-policy/ has been purged, triggered by action: save_post 
+[2025-04-03 21:46:27 : INFO] - Cache for URL: https://hiba.dev/?page_id=106 has been purged, triggered by action: save_post 
+[2025-04-03 21:47:13 : INFO] - Cache for URL: https://hiba.dev/tester/ has been purged, triggered by action: save_post 
+[2025-04-03 21:47:16 : INFO] - Cache for URL: https://hiba.dev/tester/ has been purged, triggered by action: save_post 
+[2025-04-03 21:48:24 : INFO] - Cache for URL: https://hiba.dev/tester/ has been purged, triggered by action: save_post 
+[2025-04-03 21:48:29 : INFO] - Cache for URL: https://hiba.dev/tester/ has been purged, triggered by action: save_post 
+[2025-04-03 21:50:28 : INFO] - Cache for URL: https://hiba.dev/tester/ has been purged, triggered by action: wp_trash_post 
+[2025-04-03 21:50:28 : INFO] - Cache for URL: https://hiba.dev/?page_id=106 has been purged, triggered by action: save_post 
